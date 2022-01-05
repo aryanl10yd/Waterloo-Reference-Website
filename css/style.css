@@ -8,7 +8,7 @@
 }
 :root
 {
-  --clr: #222327;
+  --clr: linear-gradient(90deg, #222327, #3b3c42);
 }
 body
 {
@@ -61,7 +61,7 @@ body
   font-size: 1.5em;
   text-align: center;
   transition: 0.1s;
-  color: var(--clr);
+  color: #222327;
 }
 .navigation ul li.active a .icon
 {
@@ -70,7 +70,7 @@ body
 .navigation ul li a .text
 {
   position: absolute;
-  color: var(--clr);
+  color: #222327;
   font-weight: 400;
   font-size: 0.75em;
   letter-spacing: 0.05em;
