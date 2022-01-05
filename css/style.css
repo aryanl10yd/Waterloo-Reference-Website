@@ -187,8 +187,9 @@ body
 
 .page-2 {
   background-image: linear-gradient(#bdd600, #8a00cf);
-  width: 100%;
-  height: 850px;
+  margin-left: 12.5%;
+  width: 75%;
+  height: 800px;
   border-radius: 20px;
 }
 
