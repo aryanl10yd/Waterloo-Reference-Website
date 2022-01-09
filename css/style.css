@@ -8,7 +8,7 @@
 }
 :root
 {
-  --clr: linear-gradient(90deg, #222327, #3b3c42);
+  --clr: linear-gradient(#222327, #3b3c42);
 }
 body
 {
